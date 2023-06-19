@@ -10,7 +10,9 @@ My primary interest lies in backend development, where I enjoy architecting and 
 If you have any questions, feedback, or would like to connect, you can reach me through the following channels:
 
 Portfolio Page: https://christopher-sanchez.netlify.app/
+
 LinkedIn: https://www.linkedin.com/in/cjsanc1/
+
 Instagram: @cjsanc1
 Feel free to reach out to me anytime! I am always excited to connect with fellow developers and learn from each other.
 
